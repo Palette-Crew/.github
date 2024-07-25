@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 import Parser from "rss-parser";
 
 // 기존 README.md 파일 읽기
-const readmePath = "profile/README.md";
+const readmePath = "README.md";
 let readmeContent = readFileSync(readmePath, "utf8");
 
 // RSS 파서 생성

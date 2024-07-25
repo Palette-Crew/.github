@@ -27,7 +27,7 @@ jobs:
         working-directory: ./profile
 
       - name: Run update script
-        run: npm start
+        run: node readmeUpdate.js
         working-directory: ./profile
 
       - name: Commit README
