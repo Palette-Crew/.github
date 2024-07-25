@@ -5,7 +5,9 @@
 
 <br/>
 
-<div>
+## 크루 블로그
+
+<div style="display: flex; align-items: center;">
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="30" style="margin-right: 5px;" />
-    <a href="https://palette-crew.tistory.com">Palette Crew Blog 🥳</a>
+    <a href="https://palette-crew.tistory.com" style="text-decoration: none; color: inherit;">Palette Crew Blog 🥳</a>
 </div>
