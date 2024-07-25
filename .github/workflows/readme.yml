@@ -27,7 +27,7 @@ jobs:
         working-directory: ./profile
 
       - name: Run update script
-        run: npm start
+        run: node readmeUpdate.js
         working-directory: ./profile
 
       - name: Commit README
@@ -35,7 +35,7 @@ jobs:
           git config --local user.name '${{ secrets.USER_NAME }}'
           git config --local user.email '${{ secrets.USER_EMAIL }}'
           if [ -n "$(git status --porcelain)" ]; then
-            git add profile/README.md
+            git add README.md
             git commit -m 'Update README with latest blog posts'
             git push
           else
@@ -43,3 +43,4 @@ jobs:
           fi
         env:
           GH_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        working-directory: ./profile
