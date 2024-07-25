@@ -3,6 +3,9 @@
 |:------------------------------------------------------------------------------------------:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Lee Giyeon<br/>🖤<br/>[@Leegiyeon](https://github.com/Leegiyeon)|악덕<br/>🩶<br/>[@Virtue14](https://github.com/Virtue14)|💜<br/>[@moomint8](https://github.com/moomint8)|hyunwoo<br/>🩷<br/>[@daersh](https://github.com/daersh)|🧡<br/>[@kyulin-Kim](https://github.com/kyulin-Kim)|Jade<br/>💙<br/>[@noctesilente](https://github.com/noctesilente)|<br/>🤍<br/>[@White-yop](https://github.com/White-yop)|
 
-## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="30" /> 크루 블로그
+<br/>
 
-[Palette Crew Blog 🥳](https://palette-crew.tistory.com)
+<div style="display: flex; align-items: flex-end;">
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="30" style="margin-right: 5px;" />
+    <a href="https://palette-crew.tistory.com">Palette Crew Blog 🥳</a>
+</div>
