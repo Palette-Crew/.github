@@ -23,10 +23,12 @@ jobs:
           node-version: "16"
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
+        working-directory: ./profile
 
       - name: Run update script
         run: npm start
+        working-directory: ./profile
 
       - name: Commit README
         run: |
@@ -41,3 +43,4 @@ jobs:
           fi
         env:
           GH_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        working-directory: ./profile
