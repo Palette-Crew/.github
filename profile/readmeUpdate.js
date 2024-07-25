@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 import Parser from "rss-parser";
 
 // 기존 README.md 파일 읽기
-const readmePath = "README.md";
+const readmePath = "profile/README.md";
 let readmeContent = readFileSync(readmePath, "utf8");
 
 // RSS 파서 생성
@@ -18,7 +18,7 @@ const parser = new Parser({
     const feed = await parser.parseURL("https://palette-crew.tistory.com/rss");
 
     // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-    let latestPosts = "### <img src=\"https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png\" width=\"30\" /> Latest Blog Posts\n\n";
+    let latestPosts = "\n\n### <img src=\"https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png\" width=\"30\" /> Latest Blog Posts\n\n";
     for (let i = 0; i < 5 && i < feed.items.length; i++) {
         let { title, link } = feed.items[i];
         link = link.startsWith('http://') ? 'https://' + link.slice(7) : link;
