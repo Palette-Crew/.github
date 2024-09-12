@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 0시(자정)에 실행
+    - cron: "15 15 * * *" # UTC 오후 3시, 한국 시간 자정에 실행
   push:
     branches:
       - main
