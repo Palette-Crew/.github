@@ -46,11 +46,13 @@
 
 
 
+
+
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="30" /> Latest Blog Posts
 
+- [wxWidgets 적용기 1편](https://palette-crew.tistory.com/entry/wxWidgets-%EC%A0%81%EC%9A%A9%EA%B8%B0-1%ED%8E%B8)
 - [Spring Data JPA에 대한 오해](https://palette-crew.tistory.com/entry/Spring-Data-JPA%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4)
 - [2024년 CI/CD 트렌드: 최신 도구와 기술을 통한 개발 생산성 향상](https://palette-crew.tistory.com/entry/2024%EB%85%84-CICD-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%B5%9C%EC%8B%A0-%EB%8F%84%EA%B5%AC%EC%99%80-%EA%B8%B0%EC%88%A0%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%96%A5%EC%83%81)
 - [Git Flow VS GitHub Flow 뭐가 다를까?](https://palette-crew.tistory.com/entry/Git-Flow-VS-GitHub-Flow)
 - [Github Subtree 과연 이슈 발행도 적용될까?](https://palette-crew.tistory.com/entry/Github-Subtree-%EA%B3%BC%EC%97%B0-%EC%9D%B4%EC%8A%88-%EB%B0%9C%ED%96%89%EB%8F%84-%EB%A8%B9%ED%9E%90%EA%B9%8C)
-- [안녕하세요](https://palette-crew.tistory.com/entry/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94)
 
