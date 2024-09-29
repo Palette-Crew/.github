@@ -62,11 +62,13 @@
 
 
 
+
+
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="30" /> Latest Blog Posts
 
+- [RAG를 활용한 AI 기반 검색 서비스 개발(요약)](https://palette-crew.tistory.com/entry/RAG%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-AI-%EA%B8%B0%EB%B0%98-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9A%94%EC%95%BD)
 - [wxWidgets 적응기 2편](https://palette-crew.tistory.com/entry/WxWidgets-%EC%A0%81%EC%9D%91%EA%B8%B0-2%ED%8E%B8)
 - [MyBatis와 JPA, 어느 것이 더 나은 선택일까? ](https://palette-crew.tistory.com/entry/MyBatis%EC%99%80-JPA-%EC%96%B4%EB%8A%90-%EA%B2%83%EC%9D%B4-%EB%8D%94-%EB%82%98%EC%9D%80-%EC%84%A0%ED%83%9D%EC%9D%BC%EA%B9%8C%F0%9F%A4%94)
 - [wxWidgets 적용기 1편](https://palette-crew.tistory.com/entry/wxWidgets-%EC%A0%81%EC%9A%A9%EA%B8%B0-1%ED%8E%B8)
 - [Spring Data JPA에 대한 오해](https://palette-crew.tistory.com/entry/Spring-Data-JPA%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4)
-- [2024년 CI/CD 트렌드: 최신 도구와 기술을 통한 개발 생산성 향상](https://palette-crew.tistory.com/entry/2024%EB%85%84-CICD-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%B5%9C%EC%8B%A0-%EB%8F%84%EA%B5%AC%EC%99%80-%EA%B8%B0%EC%88%A0%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%ED%96%A5%EC%83%81)
 
