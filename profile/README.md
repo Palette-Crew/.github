@@ -1,7 +1,7 @@
 ## 🎨 크루 소개
 | <img src="https://avatars.githubusercontent.com/u/74126467?v=4" width="150" height="150"/> |<img src="https://avatars.githubusercontent.com/u/122339395?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/112872644?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/22255663?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/107897788?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129481600?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/176552063?v=4" width="150" height="150"/>|
 |:------------------------------------------------------------------------------------------:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Lee Giyeon<br/>🖤<br/>[@Leegiyeon](https://github.com/Leegiyeon)|악덕<br/>🩶<br/>[@Virtue14](https://github.com/Virtue14)|💜<br/>[@moomint8](https://github.com/moomint8)|hyunwoo<br/>🩷<br/>[@daersh](https://github.com/daersh)|🧡<br/>[@kyulin-Kim](https://github.com/kyulin-Kim)|Jade<br/>💙<br/>[@noctesilente](https://github.com/noctesilente)|<br/>🤍<br/>[@White-yop](https://github.com/White-yop)|
+|Lee Giyeon<br/>🖤<br/>[@Leegiyeon](https://github.com/Leegiyeon)|악덕<br/>🩶<br/>[@virtue14](https://github.com/Virtue14)|💜<br/>[@moomint8](https://github.com/moomint8)|hyunwoo<br/>🩷<br/>[@daersh](https://github.com/daersh)|🧡<br/>[@kyulin-Kim](https://github.com/kyulin-Kim)|Jade<br/>💙<br/>[@noctesilente](https://github.com/noctesilente)|<br/>🤍<br/>[@White-yop](https://github.com/White-yop)|
 
 <br/>
 
