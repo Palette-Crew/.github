@@ -80,6 +80,8 @@
 
 
 
+
+
 ### <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png" width="30" /> Latest Blog Posts
 
 - [RAG를 활용한 AI 기반 검색 서비스 개발(요약)](https://palette-crew.tistory.com/entry/RAG%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-AI-%EA%B8%B0%EB%B0%98-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9A%94%EC%95%BD)
