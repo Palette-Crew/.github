@@ -1,53 +1,53 @@
-name: Update README
+# name: Update README
 
-on:
-  schedule:
-#  * * * * * schedule 가이드
-    #| | | | |
-    #| | | | └─ 요일 (0-7, 0 또는 7은 일요일)
-    #| | | └── 월 (1-12)
-    #| | └──── 일 (1-31)
-    #| └────── 시간 (0-23)
-    #└──────── 분 (0-59)
-    - cron: "0 15 * * *" # UTC 오후 3시, 한국 시간 자정에 실행
-  push:
-    branches:
-      - main
+# on:
+#   schedule:
+# #  * * * * * schedule 가이드
+#     #| | | | |
+#     #| | | | └─ 요일 (0-7, 0 또는 7은 일요일)
+#     #| | | └── 월 (1-12)
+#     #| | └──── 일 (1-31)
+#     #| └────── 시간 (0-23)
+#     #└──────── 분 (0-59)
+#     - cron: "0 15 * * *" # UTC 오후 3시, 한국 시간 자정에 실행
+#   push:
+#     branches:
+#       - main
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "16"
+#       - name: Set up Node.js
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: "16"
 
-      - name: Install dependencies
-        run: npm install
-        working-directory: ./profile
+#       - name: Install dependencies
+#         run: npm install
+#         working-directory: ./profile
 
-      - name: Run update script
-        run: node readmeUpdate.js
-        working-directory: ./profile
+#       - name: Run update script
+#         run: node readmeUpdate.js
+#         working-directory: ./profile
 
-      - name: Commit README
-        run: |
-          git config --local user.name '${{ secrets.USER_NAME }}'
-          git config --local user.email '${{ secrets.USER_EMAIL }}'
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
-            git commit -m 'Update README with latest blog posts'
-            git push
-          else
-            echo "No changes to commit"
-          fi
-        env:
-          GH_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        working-directory: ./profile
+#       - name: Commit README
+#         run: |
+#           git config --local user.name '${{ secrets.USER_NAME }}'
+#           git config --local user.email '${{ secrets.USER_EMAIL }}'
+#           if [ -n "$(git status --porcelain)" ]; then
+#             git add README.md
+#             git commit -m 'Update README with latest blog posts'
+#             git push
+#           else
+#             echo "No changes to commit"
+#           fi
+#         env:
+#           GH_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         working-directory: ./profile
